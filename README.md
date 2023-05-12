@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Devcab2
-- 👀 I’m interested in The future of technology
-- 🌱 I’m currently learning Frontend Web Development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: christianbowyer1996@gmail.com
+- Check out my portfolio... (christianbowyerdev.com)
 
 <!---
 Devcab2/Devcab2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
