@@ -3,4 +3,4 @@
 - I like working with cypress, javascript, and typescript.
 - proficient in node.js
 - The future lies in the hands of modern technology & those who build it. get with it or get left behind.
-- contact me for inquiries or just to connect, alwasy looking to expand my horizions and connect with other brilliant minds.
+- contact me for inquiries or just to connect, always looking to expand my horizons & connect with other brilliant minds.
