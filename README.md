@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Devcab2
-- 📫 How to reach me: christianbowyer1996@gmail.com
 - Check out my portfolio... https://christianbowyerdev.com/ 
-
-<!---
-Devcab2/Devcab2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Looking for my next QA Automation gig...
+- I like working with cypress, javascript, and typescript.
+- proficient in node.js
+- The future lies in the hands of modern technology & those who build it. get with it or get left behind.
+- contact me for inquiries or just to connect, alwasy looking to expand my horizions and connect with other brilliant minds.
