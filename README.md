@@ -1,4 +1,5 @@
-- Check out my portfolio... https://christianbowyerdev.com/ 
+- Check out my portfolio... https://christianbowyerdev.com/
+- linkedIn: https://www.linkedin.com/in/christian-bowyer-0ab01299/
 - Looking for my next QA Automation gig...
 - I like working with cypress, javascript, and typescript.
 - proficient in node.js
